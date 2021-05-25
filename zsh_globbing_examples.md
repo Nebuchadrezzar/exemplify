@@ -1,7 +1,8 @@
 # zsh globbing it operators and qualifiers 
-references:
-https://zsh.sourceforge.io/Doc/Release/Expansion.html
-https://reasoniamhere.com/2014/01/11/outrageously-useful-tips-to-master-your-z-shell/
+References:
+
+* https://zsh.sourceforge.io/Doc/Release/Expansion.html
+* https://reasoniamhere.com/2014/01/11/outrageously-useful-tips-to-master-your-z-shell/
 
 
 ### list files only: (.)
