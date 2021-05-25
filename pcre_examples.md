@@ -1,4 +1,4 @@
-# PCRE examples (ag uses Perl Common Regular expressions) #
+# PCRE examples (ag uses Perl Compatible Regular Expressions) #
 https://help.dyalog.com/13.2/Content/Language/Appendices/PCRE%20Regular%20Expression%20Details.htm
 
 ### positive lookahead: (?<=pattern)
