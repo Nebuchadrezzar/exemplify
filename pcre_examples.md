@@ -1,5 +1,7 @@
 # PCRE examples (ag uses Perl Compatible Regular Expressions) #
-https://help.dyalog.com/13.2/Content/Language/Appendices/PCRE%20Regular%20Expression%20Details.htm
+
+https://www.pcre.org/current/doc/html/pcre2pattern.html
+
 
 ### positive lookahead: (?<=pattern)
 ```bash
