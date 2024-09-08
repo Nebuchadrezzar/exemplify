@@ -7,13 +7,14 @@ References:
 
 ### list files only: (.)
 ```bash
-ls **/*(.)
+ls -f **/*(.)
 ```
 
 ### list folders only: (/)
 ``` bash
-ls **/*(/)
+ls -fd **/*(D/)
 ```
+note: `-f` suppresses `ls`'s built-in sorting. `D` shows hidden directories.  
 
 ### list all but only two directories down: 
 ```bash
